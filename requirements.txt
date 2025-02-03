@@ -1,4 +1,0 @@
-streamlit
-ollama  # If available or replace with the appropriate version if not
-sentence-transformers
-pinecone
